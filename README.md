@@ -1,4 +1,4 @@
-# Graft Mobile Clients
+# Graft Mobile Client for Linux
 
 Clients:
 * Point of Sale (POS)
